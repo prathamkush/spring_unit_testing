@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ad07341-3739-4433-bac4-1ad5ea94590b" name="Changes" comment="Using JunitTests and SpringBootTest">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SpringBasedDependencyInjection/ContentFiltering2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SpringBasedDependencyInjection/ContentFiltering2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SpringBasedDependencyInjection/MultiFiltering2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SpringBasedDependencyInjection/MultiFiltering2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SpringBasedDependencyInjection/RecommendedMovieImplemenation2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SpringBasedDependencyInjection/RecommendedMovieImplemenation2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/jUnit/JunitTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/springBootTests/RecommendedMovieImplementationSpringBootTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/springBootTests/RecommendedMovieImplementationSpringBootTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="3ad07341-3739-4433-bac4-1ad5ea94590b" name="Changes" comment="used SpringBootTest" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665483192536</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="used SpringBootTest">
+      <created>1665484833445</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665484833445</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +85,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Using JunitTests and SpringBootTests" />
     <MESSAGE value="Using JunitTests and SpringBootTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using JunitTests and SpringBootTest" />
+    <MESSAGE value="used SpringBootTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="used SpringBootTest" />
   </component>
 </project>
