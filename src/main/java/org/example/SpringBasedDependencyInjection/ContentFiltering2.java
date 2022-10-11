@@ -5,8 +5,8 @@ import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
 // Making this class - ContentFiltering as a bean
+// @Qualifier("CF2")
 @Component
-@Qualifier("CF2")
 @Primary
 public class ContentFiltering2 implements Filterr {
     @Override

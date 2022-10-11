@@ -18,7 +18,8 @@ public class RecommendedMovieImplemenation2 {
 
 
     // Constructor Injection (Autowiring + Injecting)
-    public RecommendedMovieImplemenation2(@Qualifier("MF2") Filterr filter){
+    public RecommendedMovieImplemenation2(Filterr filter){
+        super();
         this.filter = filter;
     }
 
