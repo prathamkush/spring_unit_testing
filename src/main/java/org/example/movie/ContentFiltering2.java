@@ -1,13 +1,12 @@
-package org.example.SpringBasedDependencyInjection;
+package org.example.movie;
 
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
 // Making this class - ContentFiltering as a bean
 // @Qualifier("CF2")
+//@Primary
 @Component
-@Primary
 public class ContentFiltering2 implements Filterr {
     @Override
     public String[] getRecommendatins(String movie) {

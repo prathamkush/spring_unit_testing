@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ad07341-3739-4433-bac4-1ad5ea94590b" name="Changes" comment="used SpringBootTest" />
+    <list default="true" id="3ad07341-3739-4433-bac4-1ad5ea94590b" name="Changes" comment="updated">
+      <change afterPath="$PROJECT_DIR$/src/test/java/jUnit/RecommendedMovieSpringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/jUnit/RecommendedMovieXmlTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/app-context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SpringBasedDependencyInjection/ContentFiltering2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/movie/ContentFiltering2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SpringBasedDependencyInjection/Filterr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/movie/Filterr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SpringBasedDependencyInjection/MultiFiltering2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/movie/MultiFiltering2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SpringBasedDependencyInjection/RecommendedMovieImplemenation2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/movie/RecommendedMovieImplemenation2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/jUnit/JunitTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/jUnit/JunitTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/springBootTests/RecommendedMovieImplementationSpringBootTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/springBootTests/RecommendedMovieImplementationSpringBootTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,12 +50,21 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/JFSD/spring projects/Spring_Unit_Testing/src/main/java/org/example"
+    "last_opened_file_path": "C:/JFSD/spring projects/Spring_Unit_Testing/src/main/java/org/example",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\JFSD\spring projects\Spring_Unit_Testing\src\main\java\org\example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JFSD\spring projects\Spring_Unit_Testing\src\test\resources" />
+      <recent name="C:\JFSD\spring projects\Spring_Unit_Testing\src" />
+      <recent name="C:\JFSD\spring projects\Spring_Unit_Testing\src\test\java" />
+      <recent name="C:\JFSD\spring projects\Spring_Unit_Testing\src\test\java\jUnit" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -68,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665484833445</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated">
+      <created>1665485079807</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665485079807</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +115,7 @@
     <MESSAGE value="Using JunitTests and SpringBootTests" />
     <MESSAGE value="Using JunitTests and SpringBootTest" />
     <MESSAGE value="used SpringBootTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="used SpringBootTest" />
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
 </project>

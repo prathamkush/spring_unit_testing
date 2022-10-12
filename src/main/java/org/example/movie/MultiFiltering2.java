@@ -1,7 +1,6 @@
-package org.example.SpringBasedDependencyInjection;
+package org.example.movie;
 
 
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 //

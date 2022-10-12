@@ -1,11 +1,7 @@
-package org.example.SpringBasedDependencyInjection;
+package org.example.movie;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
-
-import javax.annotation.PostConstruct;
-import javax.annotation.PreDestroy;
 
 
 // Making this as a bean via spring so that it will get selected

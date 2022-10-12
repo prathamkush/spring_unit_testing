@@ -1,12 +1,11 @@
 package org.example;
 
 
-import org.example.SpringBasedDependencyInjection.RecommendedMovieImplemenation2;
+import org.example.movie.RecommendedMovieImplemenation2;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
-import java.sql.SQLOutput;
 import java.util.Arrays;
 
 @SpringBootApplication
